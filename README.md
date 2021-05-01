@@ -1,2 +1,2 @@
-# datawhale team learning for
+# datawhale team learning
 ## hand-on-data-analysis-notebook
